@@ -27,8 +27,8 @@ function responseData(result) {
             <td>${data.pimpinan_proyek}</td>
             <td>${data.keterangan}</td>
             <td>${namaLokasi}</td>
-            <td><a class="btn btn-primary btn-user btn-block" href="halaman/edit?proyek_id=${data.id}&nama_proyek=${data.nama_proyek}&client=${data.client}&tgl_mulai=${data.tgl_mulai}&tgl_selesai=${data.tgl_selesai}&pimpinan_proyek=${data.pimpinan_proyek}&keterangan=${data.keterangan}">Edit</a></td>
-            <td><a class="btn btn-danger btn-user btn-block" href="halaman/hapus?proyek_id=${data.id}">Hapus</a></td>
+            <td><a class="btn btn-primary btn-user btn-block" href="halaman/edit?proyek_id=${data.id}&nama_proyek=${data.nama_proyek}&client=${data.client}&tgl_mulai=${data.tgl_mulai}&tgl_selesai=${data.tgl_selesai}&pimpinan_proyek=${data.pimpinan_proyek}&keterangan=${data.keterangan}#formproyek">Edit</a></td>
+            <td><a class="btn btn-danger btn-user btn-block" href="halaman/hapus?proyek_id=${data.id}#formproyek">Hapus</a></td>
         `;
         // Append the post div to the post container
         postContainer.appendChild(postDiv);

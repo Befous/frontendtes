@@ -16,9 +16,8 @@ export default function InputLokasi(){
     }
     
     postBiasa(APIInputLokasi,datainjson,responseData);
-    alert("data masuk")
 }
 
 function responseData(result) {
-    console.log(result)
+    alert(result.message)
 }

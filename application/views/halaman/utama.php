@@ -88,59 +88,7 @@
                                         <th>Hapus</th>
                                     </tr>
                                 </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>1</td>
-                                        <td>Ibu Kota Nusantara</td>
-                                        <td>Warga Negara Indonesia</td>
-                                        <td>2011/04/25</td>
-                                        <td>2011/04/26</td>
-                                        <td>Joko Widodo</td>
-                                        <td>IKN (Ibu Kota Negara) adalah proyek pemerintah Indonesia untuk memindahkan ibu kota dari Jakarta ke Kalimantan Timur, dengan tujuan mendistribusikan pembangunan dan mengurangi beban Jakarta.</td>
-                                        <td>Samarinda</td>
-                                        <td style="text-align: center; vertical-align: middle;">
-                                            <a href="#" class="btn btn-primary btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
-                                                </span>
-                                                <span class="text">Edit</span>
-                                            </a>
-                                        </td>
-                                        <td style="text-align: center; vertical-align: middle;">
-                                            <a href="#" class="btn btn-danger btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-trash"></i>
-                                                </span>
-                                                <span class="text">Hapus</span>
-                                            </a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>2</td>
-                                        <td>Ibu Kota Nusantara</td>
-                                        <td>Warga Negara Indonesia</td>
-                                        <td>2011/04/25</td>
-                                        <td>2011/04/26</td>
-                                        <td>Joko Widodo</td>
-                                        <td>IKN (Ibu Kota Negara) adalah proyek pemerintah Indonesia untuk memindahkan ibu kota dari Jakarta ke Kalimantan Timur, dengan tujuan mendistribusikan pembangunan dan mengurangi beban Jakarta.</td>
-                                        <td>Samarinda</td>
-                                        <td style="text-align: center; vertical-align: middle;">
-                                            <a href="#" class="btn btn-primary btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
-                                                </span>
-                                                <span class="text">Edit</span>
-                                            </a>
-                                        </td>
-                                        <td style="text-align: center; vertical-align: middle;">
-                                            <a href="#" class="btn btn-danger btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-trash"></i>
-                                                </span>
-                                                <span class="text">Hapus</span>
-                                            </a>
-                                        </td>
-                                    </tr>
+                                <tbody id="data-proyek">
                                 </tbody>
                             </table>
                         </div>
@@ -166,53 +114,7 @@
                                         <th>Hapus</th>
                                     </tr>
                                 </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Tiger Nixon</td>
-                                        <td>System Architect</td>
-                                        <td>Edinburgh</td>
-                                        <td>61</td>
-                                        <td>2011/04/25</td>
-                                        <td style="text-align: center; vertical-align: middle;">
-                                            <a href="#" class="btn btn-primary btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
-                                                </span>
-                                                <span class="text">Edit</span>
-                                            </a>
-                                        </td>
-                                        <td style="text-align: center; vertical-align: middle;">
-                                            <a href="#" class="btn btn-danger btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-trash"></i>
-                                                </span>
-                                                <span class="text">Hapus</span>
-                                            </a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Garrett Winters</td>
-                                        <td>Accountant</td>
-                                        <td>Tokyo</td>
-                                        <td>63</td>
-                                        <td>2011/07/25</td>
-                                        <td style="text-align: center; vertical-align: middle;">
-                                            <a href="#" class="btn btn-primary btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
-                                                </span>
-                                                <span class="text">Edit</span>
-                                            </a>
-                                        </td>
-                                        <td style="text-align: center; vertical-align: middle;">
-                                            <a href="#" class="btn btn-danger btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-trash"></i>
-                                                </span>
-                                                <span class="text">Hapus</span>
-                                            </a>
-                                        </td>
-                                    </tr>
+                                <tbody id="data-lokasi">
                                 </tbody>
                             </table>
                         </div>

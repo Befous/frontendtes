@@ -10,9 +10,8 @@ export default function HapusLokasi(){
     }
     
     deleteBiasa(APIHapuslokasi,datainjson,responseData);
-    alert("data terhapus")
 }
 
 function responseData(result) {
-    console.log(result)
+    alert(result.message)
 }
